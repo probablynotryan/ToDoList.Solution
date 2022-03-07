@@ -5,7 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="MySqlConnection" Version="0.69.0" />
+    <PackageReference Include="MySqlConnector" Version="0.69.0" />
   </ItemGroup>
 
 </Project>
